@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_text">Ostatnie pożegnanie</string>
+    <string name="system">System wspierający zamawianie produktów i usług popogrzebowych</string>
+    <string name="enter">Wejdź</string>
+    <string name="choose_label">Wybierz zakład</string>
+    <string name="category">Wybierz kategorię</string>
+    <string name="description">Opis</string>
+    <string name="add_to_cart">Dodaj do koszyka</string>
+    <string name="pln"> zł</string>
+</resources>
